@@ -1,0 +1,7 @@
+.footerContainer{
+    background-color: cornflowerblue;
+    bottom: 0px;
+    position: absolute;
+    height: 100px;
+    width: 100%;
+}

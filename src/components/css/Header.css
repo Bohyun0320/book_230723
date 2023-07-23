@@ -1,0 +1,22 @@
+.headerContainer{
+    background-color: #FEFAE0;
+    top: 0px;
+    position: absolute;
+    height: 80px;
+    width: 100%;
+}
+
+.headerWrapper{
+    margin: 0 150px;
+    display: flex;
+}
+
+.logoImg{
+    width: 150px;
+    height: 80px;
+}
+
+.menuContainer{
+    padding-left:300px;
+    display: flex;
+}
